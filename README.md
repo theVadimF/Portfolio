@@ -23,10 +23,6 @@
 ![Модный Фермер Главная](assets/mf_index.jpeg)
 ![Модный Фермер Каталог](assets/mf_catalog.jpeg)
 
-### FD Plast
-
-[dev.fdplast.ru](http://dev.fdplast.ru)
-
 ### Кладовочка
 
 ![Кладовочка deposit](assets/kladovochka_deposit.gif)
