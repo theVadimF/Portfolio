@@ -12,22 +12,37 @@
 - Python
 - PostgreSQL
 
-# Готовые проекты
+# Примеры работ
 
-[Sale Elki](https://sale-elki.ru/)
+### Sale Elki
 
-# Проекты в работе
+[Сайт](https://sale-elki.ru/)
+
+[Github Source](https://github.com/theVadimF/sale-elki)
 
 ### Модный Фермер
+
+[Github Source](https://github.com/theVadimF/modniyfermer)
 
 ![Модный Фермер Главная](assets/mf_index.jpeg)
 ![Модный Фермер Каталог](assets/mf_catalog.jpeg)
 
 ### Кладовочка
 
+[Github Source](https://github.com/theVadimF/kladovochka)
+
 ![Кладовочка deposit](assets/kladovochka_deposit.gif)
 
+### FD-Plast
+
+[Github Source](https://github.com/theVadimF/fd-plast)
+
 # Персональное проекты
+
+### [WIP] ReactWeather
+
+[Github Source](https://github.com/theVadimF/ReactWeather)
+![ReactWeather](assets/ReactWeather2.jpeg)
 
 ### JS Weather
 
